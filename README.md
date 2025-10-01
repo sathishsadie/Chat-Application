@@ -146,11 +146,6 @@ Frontend will run on `http://localhost:5173` (Vite default port).
 
 ---
 
-## Screenshots
-
-![Kitchen Management AI](./frontend/src/assets/react.svg)
-
----
 
 ## License
 
